@@ -6,5 +6,9 @@
     {
       "repository": "android_device_samsung_crespo",
       "target_path": "device/samsung/crespo"
+    },
+    {
+      "repository": "android_vendor_samsung_crespo4g",
+      "target_path": "vendor/samsung/crespo4g"
     }
 ]
